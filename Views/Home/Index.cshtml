@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form id="loginForm">
+    <input type="email" name="email" id="email" placeholder="Email" required />
+    <input type="password" name="password" id="password" placeholder="Password" required />
+    <button type="submit">Login</button>
+</form>
+
+<button onclick="getData()">GetData here</button>
+
+<script>
+    document.getElementById("loginForm").addEventListener("submit", async function (e) {
+        e.preventDefault();
+
+        const res = await fetch("/api/Todo/login", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                email: document.getElementById("email").value,
+                password: document.getElementById("password").value
+            })
+        });
+
+        if (res.ok) {
+            const data = await res.json();
+            sessionStorage.setItem("jwtToken", data.token);
+            alert("Login successful");
+            window.location.href = "/Home/Dashboard"; // Redirect to secure page
+        } else {
+            alert("Invalid login");
+        }
+    });
+
+
+   function getData(){
+        const token = sessionStorage.getItem("jwtToken");
+
+        const res = await fetch("/api/secure/data", {
+            method: "GET",
+            headers: {
+                "Authorization": `Bearer ${token}`
+            }
+        });
+
+        const data = await res.json();
+        console.log("Secure API response:", data);
+   }
+
+</script>
+
