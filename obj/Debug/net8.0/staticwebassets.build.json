@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "agYj6aaqAE5AQu11cgpYguAHKZtSIAg6i3I8XrI1L4U=",
-  "Source": "WebAPIsAngular",
-  "BasePath": "_content/WebAPIsAngular",
+  "Hash": "OCSgZz3SpqV5/2eLXZ7fvmJdvbVEJG7elMnS3a6ZlII=",
+  "Source": "minimalCrudAPI",
+  "BasePath": "_content/minimalCrudAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

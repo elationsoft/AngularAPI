@@ -1,32 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "W/MQ4ePyhRM=",
+  "dgSpecHash": "xaHMP/YCyrc=",
   "success": true,
-  "projectFilePath": "D:\\code\\DotNet\\WebAPIsAngular\\WebAPIsAngular.csproj",
+  "projectFilePath": "G:\\DemoCode\\minimalCrudAPI\\minimalCrudAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Deepy\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.5\\microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.12.1\\microsoft.identitymodel.abstractions.8.12.1.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.12.1\\microsoft.identitymodel.jsonwebtokens.8.12.1.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.identitymodel.logging\\8.12.1\\microsoft.identitymodel.logging.8.12.1.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.12.1\\microsoft.identitymodel.tokens.8.12.1.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512",
-    "C:\\Users\\Deepy\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.12.1\\system.identitymodel.tokens.jwt.8.12.1.nupkg.sha512"
+    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Deepy\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Deepy\\.nuget\\packages\\npgsql\\8.0.7\\npgsql.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }

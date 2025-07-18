@@ -1,4 +1,4 @@
-namespace WebAPIsAngular
+namespace minimalCrudAPI
 {
     public class WeatherForecast
     {
